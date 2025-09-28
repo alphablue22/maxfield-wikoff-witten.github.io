@@ -29,13 +29,22 @@ show_social_icons: true
 
 social-network-links:
   github: https://github.com/alphablue22
-  linkedin: https://linkedin.com/in/your-linkedin-handle
+  linkedin: https://linkedin.com/in/mwikoffwitten
   email: Maxfield.blue@gmail.com
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
+
+navigation:
+  enabled: true
+
+author:
+  name: "Maxfield Wikoff-Witten"
+  avatar: "/assets/images/avatar.jpg" # optional
+  bio: "Software Engineer | Automation, Scalable Architecture, Data Analytics"
+  location: "Salt Lake City, UT"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
