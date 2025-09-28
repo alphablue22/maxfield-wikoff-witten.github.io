@@ -1,6 +1,9 @@
 ---
-layout: home
+layout: single
 title: Welcome
+permalink: /index/
+author_profile: true
+
 ---
 
 Hi, I’m **Maxfield Wikoff-Witten** — a software engineer specializing in automation, scalable architecture, and clean design. I build modular, production-ready apps and currently work as a **Risk Rules Engineer at eBay**, where I’ve led projects in rule-based security, data pipelines, and executive dashboards.

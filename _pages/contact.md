@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: single
 title: Contact
+permalink: /contact/
+author_profile: true
+
 ---
 
 Let’s connect — I’m always open to new opportunities, collaborations, and conversations.
