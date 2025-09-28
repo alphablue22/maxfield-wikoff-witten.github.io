@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Resume
 permalink: /resume/
 author_profile: true
@@ -8,7 +8,9 @@ author_profile: true
 ## 🧠 Summary  
 Software Engineer specializing in automation, scalable architecture, and data analytics. Experienced in rule-based systems, workflow optimization, and collaborative development. Passionate about building secure, modular solutions that drive real-world impact.
 
-## 💼 Experience  
+---
+
+## 💼 Experience
 
 **Risk Rules Engineer**  
 *eBay — 2025 to Present*  
@@ -29,15 +31,19 @@ Software Engineer specializing in automation, scalable architecture, and data an
 - Delivered insights to support strategic planning and performance tracking  
 - Collaborated with stakeholders to refine metrics and visualizations
 
-## 🎓 Education  
+---
+
+## 🎓 Education
 
 **B.S. Software Engineering**  
-Western Governors University —  *May 2025*
+Western Governors University — *May 2025*
 
 **A.S. Computer Science**  
 Salt Lake Community College — *Spring 2022*
 
-## 🛠 Skills  
+---
+
+## 🛠 Skills
 
 - **Languages & Tools:** Java, Python, Maven, SQL, PowerShell, Ruby, Git, VS Code  
 - **Web Development:** Jekyll, GitHub Pages, React/TypeScript (learning in progress)  

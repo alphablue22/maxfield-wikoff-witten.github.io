@@ -5,15 +5,11 @@ permalink: /about/
 author_profile: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I’m Maxfield Wikoff-Witten — a software engineer focused on automation, scalable architecture, and clean design. I currently work as a **Risk Rules Engineer at eBay**, where I develop rule-based logic and production-ready code for secure, efficient decision-making.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site is built with [Jekyll](https://jekyllrb.com/) and styled using the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/), customized to showcase my work, skills, and career journey.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Want to explore more?  
+- View my [projects](/projects/)  
+- Check out my [resume](/resume/)  
+- [Contact me](/contact/)
